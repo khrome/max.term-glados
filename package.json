@@ -1,0 +1,16 @@
+{
+    "name" : "max.term-glados",
+    "version" : "0.0.1",
+    "personality" :{
+        "engine" : "eliza",
+        "voice" : "en-us+annie",
+        "options" : {
+
+        },
+        "config":{
+            "stipple" : true,
+            "blended": true,
+            "alphabet" : "greyscale"
+        }
+    }
+}
