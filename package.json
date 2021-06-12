@@ -1,6 +1,6 @@
 {
     "name" : "max.term-glados",
-    "version" : "0.0.1",
+    "version" : "0.0.2",
     "personality" :{
         "engine" : "eliza",
         "voice" : "en-us+annie",
